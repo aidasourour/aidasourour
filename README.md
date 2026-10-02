@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Aida 👋
 
-<!--
-**aidasourour/aidasourour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Development student at Noroff.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I'm learning HTML, CSS and JavaScript
+- 🌱 I'm currently improving my frontend development skills
+- 🎮 I enjoy gaming in my free time
+- 📚 I'm always interested in learning new things
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
